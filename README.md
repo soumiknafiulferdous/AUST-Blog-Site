@@ -1,1 +1,1 @@
-# Blog-Site-with-AJAX
+# Blog Site with AJAX
